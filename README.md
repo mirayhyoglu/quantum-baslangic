@@ -1,2 +1,2 @@
-# Quantum-Ba-lang-
+# quantum-baslangic
 Quantum Team Blockchain Oryantasyon Çalışmaları 
